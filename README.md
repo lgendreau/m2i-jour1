@@ -1,2 +1,2 @@
 # m2i-jour1
-# en gras
+# en gras -- edition GITUB
